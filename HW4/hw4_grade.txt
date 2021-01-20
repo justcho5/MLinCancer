@@ -1,0 +1,30 @@
+19/19 criteria met
+
+I used the following 19 criteria from the assignment when grading:
+    - Run TypeClassifier on tumor samples from NT
+    - Add typed samples to TC
+    - Retrain TypeClassifier on TC+
+    - Reported results
+
+    - Add normal samples from NT to TC+
+    - Retrain TypeClassifier on TC++
+    - Reported results
+
+    - Run TypeClassifier++ on NT data
+    - Report portion of misclassified normal samples
+    - Explain results
+
+    - Create new TypeClassifier that assigns types independent of NT
+    - Reported results
+
+    - Use unsupervised learning to cluster TC data
+    - Assign unique types to each cluster
+    - Train new TypeClassifier
+    - Reported results
+
+    - Build a NT labelled data generator
+    - Test previous TypeClassifier on generated samples
+    - Reported results
+
+Notes:
+    Very well structured and organized

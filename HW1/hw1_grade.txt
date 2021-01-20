@@ -1,0 +1,7 @@
+4/4 points
+
+I used the following criteria from the assignment when grading:
+    + Correctly downloaded RNA-Seq data from TCGA-HNSC
+    + Described or showed code for download process
+    + Correctly created a histogram of the counts
+    + Showed code for histogram generation

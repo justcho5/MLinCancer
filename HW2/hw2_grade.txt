@@ -1,0 +1,13 @@
+6/6 criteria met + extra credit
+
+I used the following criteria from the assignment when grading (6 + extra credit):
+    + How you prepared the data for clustering.
+    + What algorithms that you used for clustering.
+    + How you visualized the clustering.
+    + How you convinced yourself that the clustering was valid.
+    + Any biological interpretations that you can associate with the clusters (extra credit).
+    + Submitted code showing how you performed the above tasks.
+    + Code had sufficient comments for understanding.
+
+Notes:
+    Used clusters to predict number of population subtypes of HNSC based on optimal number of clusters. Not the most detailed writeup, but it hit all the key points.

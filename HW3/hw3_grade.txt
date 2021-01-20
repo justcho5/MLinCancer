@@ -1,0 +1,23 @@
+9/9 criteria met
+
+I used the following criteria from the assignment when grading (9 + extra credit):
+    + Trained regression models on per drug basis with cross validation
+    + Reported ACC/MSE, F1, AUC
+        - Did not report F1/AUC, but ACC/R2 were shown
+    + Clear choice or explained choice of SIR thresholds
+    + Performed SIR classification
+    + Reported top 10 and bottom 10 results by score
+
+    + Retrained with one of CN, WES, or RACS
+    + Improved / analyzed results
+
+    + Reported top 10 drugs for cell lines
+    + Scored rank against the provided data
+
+    - (e.c.) Compared multi-drug model with previous results
+
+Notes:
+    ~24 hours late
+    Did not report F1/AUC, but ACC/R2 were shown. The
+    rest of the report was very well explained, so I
+    treated it as a minor oversight.
