@@ -1,5 +1,5 @@
 # MLinCancer
-Machine Learning in Cancer class assignments.
+Machine Learning in Cancer class assignments. Various supervised and unsupervised machine learning methods are used. Jupyter notebooks of code available for Homework 3 and 4 (also many models are built in those assignments). Worked independently throughout.
 
 ## Assignment brief descriptions:
 ### Homework 1:
